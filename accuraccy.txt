@@ -1,0 +1,75 @@
+mandarin:
+accuracy in general: 9.404618%
+accuracy of 電訊台: 0.622776 count:1124
+accuracy of 動漫台: 4.689864 count:5288
+accuracy of 吹水台: 13.475457 count:30396
+accuracy of 時事台: 10.497662 count:61166
+accuracy of 財經台: 8.526996 count:17169
+accuracy of 娛樂台: 10.595690 count:25567
+accuracy of 體育台: 11.356500 count:28662
+accuracy of 遊戲台: 4.097735 count:3929
+accuracy of 汽車台: 4.802260 count:2832
+accuracy of 校園台: 5.177792 count:3206
+accuracy of 感情台: 11.035675 count:15613
+accuracy of World: 4.600484 count:1652
+accuracy of 創意台: 9.993483 count:9206
+accuracy of 影視台: 5.315303 count:7469
+accuracy of 音樂台: 5.397909 count:4687
+accuracy of 學術台: 7.604184 count:6023
+accuracy of 上班台: 7.946509 count:7777
+accuracy of 手機台: 3.047748 count:2953
+accuracy of 寵物台: 3.555219 count:1322
+accuracy of 飲食台: 6.272085 count:6792
+accuracy of 玩具台: 2.947846 count:441
+accuracy of 健康台: 7.854066 count:3947
+accuracy of 政事台: 11.533522 count:3893
+accuracy of 房屋台: 4.910602 count:3971
+accuracy of 站務台: 3.592375 count:1364
+accuracy of 攝影台: 2.453102 count:693
+accuracy of 潮流台: 3.323904 count:1414
+accuracy of 硬件台: 3.800298 count:2684
+accuracy of 活動台: 3.811252 count:551
+accuracy of 旅遊台: 3.250975 count:769
+accuracy of Apps台: 2.684564 count:1192
+accuracy of 軟件台: 4.406475 count:1112
+accuracy of 直播台: 4.444444 count:585
+accuracy of 講故台: 3.924222 count:739
+accuracy of 黑　洞: 0.000000 count:11
+
+lihkg:
+accuracy in general: 9.614612%
+accuracy of 電訊台: 0.978648 count:1124
+accuracy of 動漫台: 4.481846 count:5288
+accuracy of 吹水台: 17.337808 count:30396
+accuracy of 時事台: 9.694929 count:61166
+accuracy of 財經台: 7.490244 count:17169
+accuracy of 娛樂台: 11.761255 count:25567
+accuracy of 體育台: 11.164608 count:28662
+accuracy of 遊戲台: 3.461441 count:3929
+accuracy of 汽車台: 4.590395 count:2832
+accuracy of 校園台: 6.581410 count:3206
+accuracy of 感情台: 10.337539 count:15613
+accuracy of World: 5.326877 count:1652
+accuracy of 創意台: 9.863133 count:9206
+accuracy of 影視台: 6.413174 count:7469
+accuracy of 音樂台: 5.419245 count:4687
+accuracy of 學術台: 8.650174 count:6023
+accuracy of 上班台: 7.637907 count:7777
+accuracy of 手機台: 3.521842 count:2953
+accuracy of 寵物台: 2.723147 count:1322
+accuracy of 飲食台: 5.020612 count:6792
+accuracy of 玩具台: 2.267574 count:441
+accuracy of 健康台: 7.347352 count:3947
+accuracy of 政事台: 11.071153 count:3893
+accuracy of 房屋台: 3.626291 count:3971
+accuracy of 站務台: 2.712610 count:1364
+accuracy of 攝影台: 2.164502 count:693
+accuracy of 潮流台: 2.970297 count:1414
+accuracy of 硬件台: 3.874814 count:2684
+accuracy of 活動台: 2.177858 count:551
+accuracy of 旅遊台: 2.990897 count:769
+accuracy of Apps台: 2.181208 count:1192
+accuracy of 軟件台: 4.496403 count:1112
+accuracy of 直播台: 4.615385 count:585
+accuracy of 講故台: 3.518268 count:739
+accuracy of 黑　洞: 0.000000 count:11
